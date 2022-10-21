@@ -117,7 +117,7 @@ def banner():
 \t |    |   \ |     \    |     \   
 \t |______  / \___  /    \___  /   
 \t        \/      \/         \/ • Bot Facebook Fast •
-\t{garis} Recode by {K}
+\t{garis} Perikod Handal {K}
 """)
 
 def cek_expired_script():
