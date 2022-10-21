@@ -1,0 +1,2 @@
+# autoshare
+Ya begitulah
