@@ -1,16 +1,3 @@
-# Author by HikmatXD
-# Jangan Keras Merecode Script Kami!!! 
-# https://github.com/HIKMAT-xyz
-# Jangan lupa follow github saya:)
-     
-     # Corporation Bot Facebook Fast
-     # Tricker Not Hacker
-     # Fb : Hikmat Ceremony Queenz Sr.
-     # Whastapp : 082115413282
-
-# Grup Whastapp Admin : https://chat.whatsapp.com/DvXb23TbzQ1CfDvXwr2ifj
-# Script Ini 100% Open Source Code:) 
-# Kalo Ada Yang Jual Script Gw Bilang Yak! 
 # Hai Perikod:) 
 
 import os,re,sys,bs4,time,json,random,datetime,requests
